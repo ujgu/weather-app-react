@@ -1,1 +1,1 @@
-# Live Demo ===> ujgu-weather-app.netlify.app
+# Live Demo ===> https://ujgu-weather-app.netlify.app/
